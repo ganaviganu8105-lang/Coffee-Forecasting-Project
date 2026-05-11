@@ -2,10 +2,11 @@ import streamlit as st
 import pandas as pd
 
 # ---------------- LOAD FILES ----------------
-cleaned = pd.read_csv("C:/Users/DELL/Desktop/coffee forcasting project/data/processed/cleaned_data.csv")
-forecast = pd.read_csv("C:/Users/DELL/Desktop/coffee forcasting project/data/forecast/forecast_output.csv")
-revenue_forecast = pd.read_csv("C:/Users/DELL/Desktop/coffee forcasting project/data/forecast/revenue_forecast.csv")
-category = pd.read_csv("C:/Users/DELL/Desktop/coffee forcasting project/data/processed/category_daily.csv")
+# ---------------- LOAD FILES ----------------
+cleaned = pd.read_csv("data/processed/cleaned_data.csv")
+forecast = pd.read_csv("data/forecast/forecast_output.csv")
+revenue_forecast = pd.read_csv("data/forecast/revenue_forecast.csv")
+category = pd.read_csv("data/processed/category_daily.csv")
 
 # ---------------- DATETIME CONVERSION ----------------
 cleaned['datetime'] = pd.to_datetime(cleaned['datetime'])
