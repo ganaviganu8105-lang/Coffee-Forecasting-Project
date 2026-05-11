@@ -1,0 +1,2286 @@
+product_category,datetime,transaction_qty
+Bakery,2025-01-01,66
+Bakery,2025-01-02,66
+Bakery,2025-01-03,77
+Bakery,2025-01-04,65
+Bakery,2025-01-05,65
+Bakery,2025-01-06,71
+Bakery,2025-01-07,74
+Bakery,2025-01-08,72
+Bakery,2025-01-09,92
+Bakery,2025-01-10,71
+Bakery,2025-01-11,78
+Bakery,2025-01-12,76
+Bakery,2025-01-13,88
+Bakery,2025-01-14,93
+Bakery,2025-01-15,76
+Bakery,2025-01-16,92
+Bakery,2025-01-17,72
+Bakery,2025-01-18,83
+Bakery,2025-01-19,63
+Bakery,2025-01-20,77
+Bakery,2025-01-21,77
+Bakery,2025-01-22,69
+Bakery,2025-01-23,117
+Bakery,2025-01-24,80
+Bakery,2025-01-25,71
+Bakery,2025-01-26,76
+Bakery,2025-01-27,86
+Bakery,2025-01-28,74
+Bakery,2025-01-29,80
+Bakery,2025-01-30,69
+Bakery,2025-01-31,62
+Bakery,2025-02-01,77
+Bakery,2025-02-02,96
+Bakery,2025-02-03,87
+Bakery,2025-02-04,79
+Bakery,2025-02-05,71
+Bakery,2025-02-06,72
+Bakery,2025-02-07,75
+Bakery,2025-02-08,72
+Bakery,2025-02-09,85
+Bakery,2025-02-10,70
+Bakery,2025-02-11,66
+Bakery,2025-02-12,73
+Bakery,2025-02-13,76
+Bakery,2025-02-14,87
+Bakery,2025-02-15,72
+Bakery,2025-02-16,77
+Bakery,2025-02-17,90
+Bakery,2025-02-18,96
+Bakery,2025-02-19,71
+Bakery,2025-02-20,77
+Bakery,2025-02-21,73
+Bakery,2025-02-22,85
+Bakery,2025-02-23,79
+Bakery,2025-02-24,80
+Bakery,2025-02-25,75
+Bakery,2025-02-26,80
+Bakery,2025-02-27,110
+Bakery,2025-02-28,81
+Bakery,2025-03-01,83
+Bakery,2025-03-02,82
+Bakery,2025-03-03,88
+Bakery,2025-03-04,71
+Bakery,2025-03-05,77
+Bakery,2025-03-06,70
+Bakery,2025-03-07,73
+Bakery,2025-03-08,69
+Bakery,2025-03-09,72
+Bakery,2025-03-10,70
+Bakery,2025-03-11,74
+Bakery,2025-03-12,75
+Bakery,2025-03-13,64
+Bakery,2025-03-14,73
+Bakery,2025-03-15,69
+Bakery,2025-03-16,86
+Bakery,2025-03-17,70
+Bakery,2025-03-18,78
+Bakery,2025-03-19,102
+Bakery,2025-03-20,70
+Bakery,2025-03-21,79
+Bakery,2025-03-22,64
+Bakery,2025-03-23,72
+Bakery,2025-03-24,87
+Bakery,2025-03-25,88
+Bakery,2025-03-26,71
+Bakery,2025-03-27,91
+Bakery,2025-03-28,85
+Bakery,2025-03-29,70
+Bakery,2025-03-30,82
+Bakery,2025-03-31,67
+Bakery,2025-04-01,76
+Bakery,2025-04-02,83
+Bakery,2025-04-03,78
+Bakery,2025-04-04,69
+Bakery,2025-04-05,107
+Bakery,2025-04-06,86
+Bakery,2025-04-07,93
+Bakery,2025-04-08,71
+Bakery,2025-04-09,80
+Bakery,2025-04-10,99
+Bakery,2025-04-11,73
+Bakery,2025-04-12,62
+Bakery,2025-04-13,80
+Bakery,2025-04-14,85
+Bakery,2025-04-15,64
+Bakery,2025-04-16,80
+Bakery,2025-04-17,88
+Bakery,2025-04-18,90
+Bakery,2025-04-19,92
+Bakery,2025-04-20,79
+Bakery,2025-04-21,77
+Bakery,2025-04-22,57
+Bakery,2025-04-23,81
+Bakery,2025-04-24,79
+Bakery,2025-04-25,60
+Bakery,2025-04-26,52
+Bakery,2025-04-27,91
+Bakery,2025-04-28,72
+Bakery,2025-04-29,70
+Bakery,2025-04-30,82
+Bakery,2025-05-01,78
+Bakery,2025-05-02,91
+Bakery,2025-05-03,90
+Bakery,2025-05-04,62
+Bakery,2025-05-05,86
+Bakery,2025-05-06,79
+Bakery,2025-05-07,79
+Bakery,2025-05-08,71
+Bakery,2025-05-09,85
+Bakery,2025-05-10,93
+Bakery,2025-05-11,88
+Bakery,2025-05-12,72
+Bakery,2025-05-13,89
+Bakery,2025-05-14,79
+Bakery,2025-05-15,70
+Bakery,2025-05-16,83
+Bakery,2025-05-17,67
+Bakery,2025-05-18,88
+Bakery,2025-05-19,75
+Bakery,2025-05-20,69
+Bakery,2025-05-21,77
+Bakery,2025-05-22,74
+Bakery,2025-05-23,90
+Bakery,2025-05-24,103
+Bakery,2025-05-25,83
+Bakery,2025-05-26,80
+Bakery,2025-05-27,72
+Bakery,2025-05-28,78
+Bakery,2025-05-29,73
+Bakery,2025-05-30,96
+Bakery,2025-05-31,70
+Bakery,2025-06-01,74
+Bakery,2025-06-02,82
+Bakery,2025-06-03,75
+Bakery,2025-06-04,66
+Bakery,2025-06-05,62
+Bakery,2025-06-06,70
+Bakery,2025-06-07,82
+Bakery,2025-06-08,90
+Bakery,2025-06-09,86
+Bakery,2025-06-10,78
+Bakery,2025-06-11,77
+Bakery,2025-06-12,65
+Bakery,2025-06-13,80
+Bakery,2025-06-14,69
+Bakery,2025-06-15,78
+Bakery,2025-06-16,61
+Bakery,2025-06-17,70
+Bakery,2025-06-18,83
+Bakery,2025-06-19,75
+Bakery,2025-06-20,72
+Bakery,2025-06-21,84
+Bakery,2025-06-22,75
+Bakery,2025-06-23,83
+Bakery,2025-06-24,74
+Bakery,2025-06-25,76
+Bakery,2025-06-26,104
+Bakery,2025-06-27,77
+Bakery,2025-06-28,75
+Bakery,2025-06-29,82
+Bakery,2025-06-30,74
+Bakery,2025-07-01,70
+Bakery,2025-07-02,79
+Bakery,2025-07-03,70
+Bakery,2025-07-04,82
+Bakery,2025-07-05,82
+Bakery,2025-07-06,96
+Bakery,2025-07-07,85
+Bakery,2025-07-08,88
+Bakery,2025-07-09,92
+Bakery,2025-07-10,72
+Bakery,2025-07-11,80
+Bakery,2025-07-12,61
+Bakery,2025-07-13,76
+Bakery,2025-07-14,78
+Bakery,2025-07-15,79
+Bakery,2025-07-16,83
+Bakery,2025-07-17,78
+Bakery,2025-07-18,77
+Bakery,2025-07-19,69
+Bakery,2025-07-20,95
+Bakery,2025-07-21,56
+Bakery,2025-07-22,99
+Bakery,2025-07-23,102
+Bakery,2025-07-24,88
+Bakery,2025-07-25,71
+Bakery,2025-07-26,81
+Bakery,2025-07-27,88
+Bakery,2025-07-28,69
+Bakery,2025-07-29,81
+Bakery,2025-07-30,62
+Bakery,2025-07-31,90
+Bakery,2025-08-01,74
+Bakery,2025-08-02,72
+Bakery,2025-08-03,74
+Bakery,2025-08-04,83
+Bakery,2025-08-05,73
+Bakery,2025-08-06,75
+Bakery,2025-08-07,63
+Bakery,2025-08-08,61
+Bakery,2025-08-09,66
+Bakery,2025-08-10,85
+Bakery,2025-08-11,88
+Bakery,2025-08-12,86
+Bakery,2025-08-13,74
+Bakery,2025-08-14,93
+Bakery,2025-08-15,84
+Bakery,2025-08-16,58
+Bakery,2025-08-17,70
+Bakery,2025-08-18,73
+Bakery,2025-08-19,62
+Bakery,2025-08-20,65
+Bakery,2025-08-21,73
+Bakery,2025-08-22,72
+Bakery,2025-08-23,61
+Bakery,2025-08-24,64
+Bakery,2025-08-25,86
+Bakery,2025-08-26,76
+Bakery,2025-08-27,80
+Bakery,2025-08-28,74
+Bakery,2025-08-29,70
+Bakery,2025-08-30,87
+Bakery,2025-08-31,75
+Bakery,2025-09-01,81
+Bakery,2025-09-02,92
+Bakery,2025-09-03,76
+Bakery,2025-09-04,68
+Bakery,2025-09-05,76
+Bakery,2025-09-06,83
+Bakery,2025-09-07,72
+Bakery,2025-09-08,70
+Bakery,2025-09-09,67
+Bakery,2025-09-10,69
+Bakery,2025-09-11,85
+Bakery,2025-09-12,88
+Bakery,2025-09-13,89
+Bakery,2025-09-14,84
+Bakery,2025-09-15,72
+Bakery,2025-09-16,85
+Bakery,2025-09-17,91
+Bakery,2025-09-18,71
+Bakery,2025-09-19,87
+Bakery,2025-09-20,64
+Bakery,2025-09-21,79
+Bakery,2025-09-22,75
+Bakery,2025-09-23,62
+Bakery,2025-09-24,87
+Bakery,2025-09-25,72
+Bakery,2025-09-26,88
+Bakery,2025-09-27,63
+Bakery,2025-09-28,80
+Bakery,2025-09-29,87
+Bakery,2025-09-30,65
+Bakery,2025-10-01,104
+Bakery,2025-10-02,97
+Bakery,2025-10-03,82
+Bakery,2025-10-04,89
+Bakery,2025-10-05,75
+Bakery,2025-10-06,86
+Bakery,2025-10-07,63
+Bakery,2025-10-08,83
+Bakery,2025-10-09,55
+Bakery,2025-10-10,100
+Bakery,2025-10-11,67
+Bakery,2025-10-12,77
+Bakery,2025-10-13,83
+Bakery,2025-10-14,69
+Bakery,2025-10-15,90
+Bakery,2025-10-16,67
+Bakery,2025-10-17,66
+Bakery,2025-10-18,68
+Bakery,2025-10-19,60
+Bakery,2025-10-20,73
+Bakery,2025-10-21,72
+Bakery,2025-10-22,81
+Bakery,2025-10-23,91
+Bakery,2025-10-24,81
+Bakery,2025-10-25,87
+Bakery,2025-10-26,17
+Branded,2025-01-09,3
+Branded,2025-01-10,5
+Branded,2025-01-11,3
+Branded,2025-01-12,5
+Branded,2025-01-13,3
+Branded,2025-01-14,2
+Branded,2025-01-15,4
+Branded,2025-01-16,7
+Branded,2025-01-17,6
+Branded,2025-01-18,3
+Branded,2025-01-19,6
+Branded,2025-01-20,9
+Branded,2025-01-21,3
+Branded,2025-01-22,3
+Branded,2025-01-23,1
+Branded,2025-01-24,9
+Branded,2025-01-25,4
+Branded,2025-01-26,2
+Branded,2025-01-27,3
+Branded,2025-01-29,2
+Branded,2025-01-30,3
+Branded,2025-01-31,3
+Branded,2025-02-02,6
+Branded,2025-02-03,4
+Branded,2025-02-04,1
+Branded,2025-02-12,1
+Branded,2025-02-13,1
+Branded,2025-02-14,4
+Branded,2025-02-15,2
+Branded,2025-02-16,3
+Branded,2025-02-17,2
+Branded,2025-02-18,2
+Branded,2025-02-19,4
+Branded,2025-02-20,5
+Branded,2025-02-21,7
+Branded,2025-02-22,6
+Branded,2025-02-23,2
+Branded,2025-02-24,5
+Branded,2025-02-25,4
+Branded,2025-02-26,5
+Branded,2025-02-27,5
+Branded,2025-02-28,7
+Branded,2025-03-02,2
+Branded,2025-03-05,1
+Branded,2025-03-06,2
+Branded,2025-03-07,4
+Branded,2025-03-18,1
+Branded,2025-03-19,2
+Branded,2025-03-20,9
+Branded,2025-03-21,3
+Branded,2025-03-22,5
+Branded,2025-03-23,6
+Branded,2025-03-24,1
+Branded,2025-03-25,2
+Branded,2025-03-26,1
+Branded,2025-03-27,7
+Branded,2025-03-28,8
+Branded,2025-03-29,9
+Branded,2025-03-31,6
+Branded,2025-04-01,10
+Branded,2025-04-02,4
+Branded,2025-04-03,4
+Branded,2025-04-04,1
+Branded,2025-04-05,4
+Branded,2025-04-06,5
+Branded,2025-04-07,4
+Branded,2025-04-08,1
+Branded,2025-04-10,1
+Branded,2025-04-11,3
+Branded,2025-04-12,1
+Branded,2025-04-13,1
+Branded,2025-04-15,2
+Branded,2025-04-19,3
+Branded,2025-05-02,2
+Branded,2025-05-03,3
+Branded,2025-05-04,10
+Branded,2025-05-05,5
+Branded,2025-05-06,4
+Branded,2025-05-07,4
+Branded,2025-05-08,4
+Branded,2025-05-09,1
+Branded,2025-05-10,2
+Branded,2025-05-11,2
+Branded,2025-05-12,5
+Branded,2025-05-13,11
+Branded,2025-05-14,7
+Branded,2025-05-15,7
+Branded,2025-05-16,3
+Branded,2025-05-17,5
+Branded,2025-05-18,8
+Branded,2025-05-19,9
+Branded,2025-05-20,3
+Branded,2025-05-21,6
+Branded,2025-05-22,7
+Branded,2025-05-23,3
+Branded,2025-05-24,3
+Branded,2025-05-25,5
+Branded,2025-05-26,5
+Branded,2025-05-27,1
+Branded,2025-05-28,1
+Branded,2025-05-29,2
+Branded,2025-05-30,1
+Branded,2025-05-31,1
+Branded,2025-06-01,2
+Branded,2025-06-02,2
+Branded,2025-06-03,2
+Branded,2025-06-04,1
+Branded,2025-06-05,3
+Branded,2025-06-09,2
+Branded,2025-06-25,1
+Branded,2025-06-26,2
+Branded,2025-06-27,3
+Branded,2025-06-28,5
+Branded,2025-06-29,6
+Branded,2025-06-30,3
+Branded,2025-07-01,1
+Branded,2025-07-02,5
+Branded,2025-07-03,4
+Branded,2025-07-04,1
+Branded,2025-07-05,1
+Branded,2025-07-06,1
+Branded,2025-07-07,1
+Branded,2025-07-08,2
+Branded,2025-07-09,9
+Branded,2025-07-10,8
+Branded,2025-07-11,4
+Branded,2025-07-12,4
+Branded,2025-07-13,3
+Branded,2025-07-14,3
+Branded,2025-07-15,3
+Branded,2025-07-16,8
+Branded,2025-07-17,9
+Branded,2025-07-18,2
+Branded,2025-07-19,6
+Branded,2025-07-20,2
+Branded,2025-07-21,7
+Branded,2025-07-22,2
+Branded,2025-07-23,5
+Branded,2025-07-24,6
+Branded,2025-07-25,9
+Branded,2025-07-26,4
+Branded,2025-07-28,1
+Branded,2025-07-29,1
+Branded,2025-07-30,1
+Branded,2025-07-31,2
+Branded,2025-08-02,3
+Branded,2025-08-03,1
+Branded,2025-08-04,3
+Branded,2025-08-06,1
+Branded,2025-08-07,2
+Branded,2025-08-12,3
+Branded,2025-08-13,4
+Branded,2025-08-14,4
+Branded,2025-08-15,2
+Branded,2025-08-16,3
+Branded,2025-09-01,1
+Branded,2025-09-02,2
+Branded,2025-09-03,2
+Branded,2025-09-04,15
+Branded,2025-09-05,6
+Branded,2025-09-06,3
+Branded,2025-09-07,5
+Branded,2025-09-08,3
+Branded,2025-09-09,4
+Branded,2025-09-10,6
+Branded,2025-09-12,1
+Branded,2025-09-13,3
+Branded,2025-09-14,1
+Branded,2025-09-15,2
+Branded,2025-09-16,6
+Branded,2025-09-17,12
+Branded,2025-09-18,6
+Branded,2025-09-19,4
+Branded,2025-09-20,7
+Branded,2025-09-21,3
+Branded,2025-09-22,7
+Branded,2025-09-23,3
+Branded,2025-09-24,9
+Branded,2025-09-25,8
+Branded,2025-09-26,4
+Branded,2025-09-27,5
+Branded,2025-09-28,5
+Branded,2025-09-29,4
+Branded,2025-09-30,6
+Branded,2025-10-01,2
+Branded,2025-10-02,2
+Branded,2025-10-03,7
+Branded,2025-10-04,8
+Branded,2025-10-05,5
+Branded,2025-10-06,1
+Branded,2025-10-07,2
+Branded,2025-10-09,1
+Branded,2025-10-10,3
+Branded,2025-10-11,2
+Branded,2025-10-13,2
+Branded,2025-10-14,1
+Branded,2025-10-15,3
+Branded,2025-10-16,1
+Branded,2025-10-17,2
+Branded,2025-10-18,2
+Branded,2025-10-19,2
+Branded,2025-10-24,2
+Branded,2025-10-25,4
+Coffee,2025-01-01,339
+Coffee,2025-01-02,336
+Coffee,2025-01-03,328
+Coffee,2025-01-04,330
+Coffee,2025-01-05,303
+Coffee,2025-01-06,343
+Coffee,2025-01-07,318
+Coffee,2025-01-08,300
+Coffee,2025-01-09,275
+Coffee,2025-01-10,253
+Coffee,2025-01-11,282
+Coffee,2025-01-12,252
+Coffee,2025-01-13,273
+Coffee,2025-01-14,291
+Coffee,2025-01-15,294
+Coffee,2025-01-16,256
+Coffee,2025-01-17,265
+Coffee,2025-01-18,268
+Coffee,2025-01-19,284
+Coffee,2025-01-20,258
+Coffee,2025-01-21,273
+Coffee,2025-01-22,281
+Coffee,2025-01-23,270
+Coffee,2025-01-24,269
+Coffee,2025-01-25,326
+Coffee,2025-01-26,338
+Coffee,2025-01-27,305
+Coffee,2025-01-28,331
+Coffee,2025-01-29,342
+Coffee,2025-01-30,340
+Coffee,2025-01-31,322
+Coffee,2025-02-01,339
+Coffee,2025-02-02,306
+Coffee,2025-02-03,271
+Coffee,2025-02-04,306
+Coffee,2025-02-05,319
+Coffee,2025-02-06,296
+Coffee,2025-02-07,320
+Coffee,2025-02-08,331
+Coffee,2025-02-09,289
+Coffee,2025-02-10,339
+Coffee,2025-02-11,288
+Coffee,2025-02-12,294
+Coffee,2025-02-13,289
+Coffee,2025-02-14,258
+Coffee,2025-02-15,302
+Coffee,2025-02-16,266
+Coffee,2025-02-17,259
+Coffee,2025-02-18,308
+Coffee,2025-02-19,301
+Coffee,2025-02-20,270
+Coffee,2025-02-21,250
+Coffee,2025-02-22,240
+Coffee,2025-02-23,287
+Coffee,2025-02-24,275
+Coffee,2025-02-25,279
+Coffee,2025-02-26,272
+Coffee,2025-02-27,254
+Coffee,2025-02-28,274
+Coffee,2025-03-01,346
+Coffee,2025-03-02,311
+Coffee,2025-03-03,311
+Coffee,2025-03-04,336
+Coffee,2025-03-05,333
+Coffee,2025-03-06,330
+Coffee,2025-03-07,293
+Coffee,2025-03-08,345
+Coffee,2025-03-09,328
+Coffee,2025-03-10,319
+Coffee,2025-03-11,324
+Coffee,2025-03-12,308
+Coffee,2025-03-13,321
+Coffee,2025-03-14,299
+Coffee,2025-03-15,304
+Coffee,2025-03-16,311
+Coffee,2025-03-17,306
+Coffee,2025-03-18,296
+Coffee,2025-03-19,271
+Coffee,2025-03-20,282
+Coffee,2025-03-21,264
+Coffee,2025-03-22,261
+Coffee,2025-03-23,273
+Coffee,2025-03-24,286
+Coffee,2025-03-25,304
+Coffee,2025-03-26,313
+Coffee,2025-03-27,273
+Coffee,2025-03-28,259
+Coffee,2025-03-29,256
+Coffee,2025-03-30,279
+Coffee,2025-03-31,271
+Coffee,2025-04-01,289
+Coffee,2025-04-02,238
+Coffee,2025-04-03,279
+Coffee,2025-04-04,262
+Coffee,2025-04-05,226
+Coffee,2025-04-06,271
+Coffee,2025-04-07,303
+Coffee,2025-04-08,310
+Coffee,2025-04-09,305
+Coffee,2025-04-10,321
+Coffee,2025-04-11,342
+Coffee,2025-04-12,356
+Coffee,2025-04-13,322
+Coffee,2025-04-14,311
+Coffee,2025-04-15,344
+Coffee,2025-04-16,361
+Coffee,2025-04-17,319
+Coffee,2025-04-18,310
+Coffee,2025-04-19,312
+Coffee,2025-04-20,293
+Coffee,2025-04-21,338
+Coffee,2025-04-22,349
+Coffee,2025-04-23,320
+Coffee,2025-04-24,317
+Coffee,2025-04-25,310
+Coffee,2025-04-26,312
+Coffee,2025-04-27,304
+Coffee,2025-04-28,305
+Coffee,2025-04-29,308
+Coffee,2025-04-30,287
+Coffee,2025-05-01,291
+Coffee,2025-05-02,275
+Coffee,2025-05-03,292
+Coffee,2025-05-04,284
+Coffee,2025-05-05,255
+Coffee,2025-05-06,286
+Coffee,2025-05-07,244
+Coffee,2025-05-08,299
+Coffee,2025-05-09,275
+Coffee,2025-05-10,273
+Coffee,2025-05-11,278
+Coffee,2025-05-12,294
+Coffee,2025-05-13,266
+Coffee,2025-05-14,281
+Coffee,2025-05-15,274
+Coffee,2025-05-16,278
+Coffee,2025-05-17,270
+Coffee,2025-05-18,273
+Coffee,2025-05-19,287
+Coffee,2025-05-20,284
+Coffee,2025-05-21,271
+Coffee,2025-05-22,280
+Coffee,2025-05-23,264
+Coffee,2025-05-24,267
+Coffee,2025-05-25,266
+Coffee,2025-05-26,337
+Coffee,2025-05-27,329
+Coffee,2025-05-28,361
+Coffee,2025-05-29,316
+Coffee,2025-05-30,322
+Coffee,2025-05-31,350
+Coffee,2025-06-01,331
+Coffee,2025-06-02,327
+Coffee,2025-06-03,345
+Coffee,2025-06-04,326
+Coffee,2025-06-05,316
+Coffee,2025-06-06,363
+Coffee,2025-06-07,342
+Coffee,2025-06-08,312
+Coffee,2025-06-09,278
+Coffee,2025-06-10,295
+Coffee,2025-06-11,333
+Coffee,2025-06-12,315
+Coffee,2025-06-13,319
+Coffee,2025-06-14,294
+Coffee,2025-06-15,339
+Coffee,2025-06-16,317
+Coffee,2025-06-17,308
+Coffee,2025-06-18,313
+Coffee,2025-06-19,311
+Coffee,2025-06-20,319
+Coffee,2025-06-21,335
+Coffee,2025-06-22,301
+Coffee,2025-06-23,287
+Coffee,2025-06-24,274
+Coffee,2025-06-25,288
+Coffee,2025-06-26,291
+Coffee,2025-06-27,276
+Coffee,2025-06-28,292
+Coffee,2025-06-29,256
+Coffee,2025-06-30,272
+Coffee,2025-07-01,267
+Coffee,2025-07-02,260
+Coffee,2025-07-03,283
+Coffee,2025-07-04,273
+Coffee,2025-07-05,294
+Coffee,2025-07-06,289
+Coffee,2025-07-07,309
+Coffee,2025-07-08,262
+Coffee,2025-07-09,245
+Coffee,2025-07-10,258
+Coffee,2025-07-11,288
+Coffee,2025-07-12,262
+Coffee,2025-07-13,282
+Coffee,2025-07-14,265
+Coffee,2025-07-15,286
+Coffee,2025-07-16,254
+Coffee,2025-07-17,272
+Coffee,2025-07-18,267
+Coffee,2025-07-19,283
+Coffee,2025-07-20,274
+Coffee,2025-07-21,291
+Coffee,2025-07-22,256
+Coffee,2025-07-23,251
+Coffee,2025-07-24,278
+Coffee,2025-07-25,280
+Coffee,2025-07-26,338
+Coffee,2025-07-27,300
+Coffee,2025-07-28,330
+Coffee,2025-07-29,348
+Coffee,2025-07-30,337
+Coffee,2025-07-31,312
+Coffee,2025-08-01,335
+Coffee,2025-08-02,337
+Coffee,2025-08-03,307
+Coffee,2025-08-04,323
+Coffee,2025-08-05,371
+Coffee,2025-08-06,304
+Coffee,2025-08-07,315
+Coffee,2025-08-08,320
+Coffee,2025-08-09,353
+Coffee,2025-08-10,318
+Coffee,2025-08-11,320
+Coffee,2025-08-12,280
+Coffee,2025-08-13,302
+Coffee,2025-08-14,292
+Coffee,2025-08-15,310
+Coffee,2025-08-16,324
+Coffee,2025-08-17,340
+Coffee,2025-08-18,324
+Coffee,2025-08-19,320
+Coffee,2025-08-20,317
+Coffee,2025-08-21,317
+Coffee,2025-08-22,322
+Coffee,2025-08-23,320
+Coffee,2025-08-24,321
+Coffee,2025-08-25,319
+Coffee,2025-08-26,320
+Coffee,2025-08-27,330
+Coffee,2025-08-28,353
+Coffee,2025-08-29,302
+Coffee,2025-08-30,294
+Coffee,2025-08-31,306
+Coffee,2025-09-01,264
+Coffee,2025-09-02,306
+Coffee,2025-09-03,271
+Coffee,2025-09-04,279
+Coffee,2025-09-05,321
+Coffee,2025-09-06,244
+Coffee,2025-09-07,286
+Coffee,2025-09-08,267
+Coffee,2025-09-09,283
+Coffee,2025-09-10,264
+Coffee,2025-09-11,256
+Coffee,2025-09-12,286
+Coffee,2025-09-13,292
+Coffee,2025-09-14,329
+Coffee,2025-09-15,307
+Coffee,2025-09-16,261
+Coffee,2025-09-17,255
+Coffee,2025-09-18,280
+Coffee,2025-09-19,294
+Coffee,2025-09-20,277
+Coffee,2025-09-21,272
+Coffee,2025-09-22,262
+Coffee,2025-09-23,304
+Coffee,2025-09-24,258
+Coffee,2025-09-25,302
+Coffee,2025-09-26,268
+Coffee,2025-09-27,266
+Coffee,2025-09-28,269
+Coffee,2025-09-29,264
+Coffee,2025-09-30,276
+Coffee,2025-10-01,240
+Coffee,2025-10-02,276
+Coffee,2025-10-03,282
+Coffee,2025-10-04,274
+Coffee,2025-10-05,326
+Coffee,2025-10-06,306
+Coffee,2025-10-07,314
+Coffee,2025-10-08,373
+Coffee,2025-10-09,366
+Coffee,2025-10-10,312
+Coffee,2025-10-11,365
+Coffee,2025-10-12,328
+Coffee,2025-10-13,331
+Coffee,2025-10-14,345
+Coffee,2025-10-15,332
+Coffee,2025-10-16,392
+Coffee,2025-10-17,296
+Coffee,2025-10-18,343
+Coffee,2025-10-19,335
+Coffee,2025-10-20,348
+Coffee,2025-10-21,332
+Coffee,2025-10-22,338
+Coffee,2025-10-23,308
+Coffee,2025-10-24,287
+Coffee,2025-10-25,295
+Coffee,2025-10-26,72
+Coffee beans,2025-01-07,8
+Coffee beans,2025-01-08,12
+Coffee beans,2025-01-09,6
+Coffee beans,2025-01-10,10
+Coffee beans,2025-01-11,6
+Coffee beans,2025-01-12,4
+Coffee beans,2025-01-13,3
+Coffee beans,2025-01-14,7
+Coffee beans,2025-01-15,11
+Coffee beans,2025-01-16,9
+Coffee beans,2025-01-17,11
+Coffee beans,2025-01-18,8
+Coffee beans,2025-01-19,24
+Coffee beans,2025-01-20,8
+Coffee beans,2025-01-21,11
+Coffee beans,2025-01-22,11
+Coffee beans,2025-01-23,12
+Coffee beans,2025-01-24,15
+Coffee beans,2025-01-25,2
+Coffee beans,2025-01-26,7
+Coffee beans,2025-01-27,6
+Coffee beans,2025-01-28,7
+Coffee beans,2025-01-29,4
+Coffee beans,2025-01-30,3
+Coffee beans,2025-01-31,3
+Coffee beans,2025-02-02,4
+Coffee beans,2025-02-03,10
+Coffee beans,2025-02-04,12
+Coffee beans,2025-02-11,6
+Coffee beans,2025-02-12,6
+Coffee beans,2025-02-13,7
+Coffee beans,2025-02-14,8
+Coffee beans,2025-02-15,7
+Coffee beans,2025-02-16,5
+Coffee beans,2025-02-17,9
+Coffee beans,2025-02-18,6
+Coffee beans,2025-02-19,12
+Coffee beans,2025-02-20,7
+Coffee beans,2025-02-21,12
+Coffee beans,2025-02-22,9
+Coffee beans,2025-02-23,4
+Coffee beans,2025-02-24,11
+Coffee beans,2025-02-25,13
+Coffee beans,2025-02-26,9
+Coffee beans,2025-02-27,10
+Coffee beans,2025-02-28,13
+Coffee beans,2025-03-01,7
+Coffee beans,2025-03-02,5
+Coffee beans,2025-03-03,5
+Coffee beans,2025-03-04,4
+Coffee beans,2025-03-05,5
+Coffee beans,2025-03-06,9
+Coffee beans,2025-03-07,6
+Coffee beans,2025-03-17,7
+Coffee beans,2025-03-18,7
+Coffee beans,2025-03-19,10
+Coffee beans,2025-03-20,9
+Coffee beans,2025-03-21,13
+Coffee beans,2025-03-22,5
+Coffee beans,2025-03-23,8
+Coffee beans,2025-03-24,8
+Coffee beans,2025-03-25,8
+Coffee beans,2025-03-26,12
+Coffee beans,2025-03-27,10
+Coffee beans,2025-03-28,10
+Coffee beans,2025-03-29,7
+Coffee beans,2025-03-30,6
+Coffee beans,2025-03-31,12
+Coffee beans,2025-04-01,7
+Coffee beans,2025-04-02,10
+Coffee beans,2025-04-03,13
+Coffee beans,2025-04-04,12
+Coffee beans,2025-04-05,7
+Coffee beans,2025-04-06,11
+Coffee beans,2025-04-07,7
+Coffee beans,2025-04-08,4
+Coffee beans,2025-04-09,7
+Coffee beans,2025-04-10,6
+Coffee beans,2025-04-11,5
+Coffee beans,2025-04-12,4
+Coffee beans,2025-04-13,7
+Coffee beans,2025-04-14,2
+Coffee beans,2025-04-15,5
+Coffee beans,2025-04-18,2
+Coffee beans,2025-04-19,3
+Coffee beans,2025-04-20,7
+Coffee beans,2025-04-30,11
+Coffee beans,2025-05-01,3
+Coffee beans,2025-05-02,15
+Coffee beans,2025-05-03,10
+Coffee beans,2025-05-04,10
+Coffee beans,2025-05-05,10
+Coffee beans,2025-05-06,7
+Coffee beans,2025-05-07,6
+Coffee beans,2025-05-08,3
+Coffee beans,2025-05-09,9
+Coffee beans,2025-05-10,7
+Coffee beans,2025-05-11,6
+Coffee beans,2025-05-12,10
+Coffee beans,2025-05-13,15
+Coffee beans,2025-05-14,8
+Coffee beans,2025-05-15,4
+Coffee beans,2025-05-16,10
+Coffee beans,2025-05-17,4
+Coffee beans,2025-05-18,21
+Coffee beans,2025-05-19,7
+Coffee beans,2025-05-20,12
+Coffee beans,2025-05-21,13
+Coffee beans,2025-05-22,13
+Coffee beans,2025-05-23,8
+Coffee beans,2025-05-24,11
+Coffee beans,2025-05-25,10
+Coffee beans,2025-05-26,9
+Coffee beans,2025-05-27,6
+Coffee beans,2025-05-28,7
+Coffee beans,2025-05-29,4
+Coffee beans,2025-05-30,5
+Coffee beans,2025-05-31,3
+Coffee beans,2025-06-01,7
+Coffee beans,2025-06-02,7
+Coffee beans,2025-06-03,9
+Coffee beans,2025-06-04,2
+Coffee beans,2025-06-09,5
+Coffee beans,2025-06-10,3
+Coffee beans,2025-06-23,9
+Coffee beans,2025-06-24,2
+Coffee beans,2025-06-25,12
+Coffee beans,2025-06-26,4
+Coffee beans,2025-06-27,9
+Coffee beans,2025-06-28,8
+Coffee beans,2025-06-29,11
+Coffee beans,2025-06-30,6
+Coffee beans,2025-07-01,6
+Coffee beans,2025-07-02,7
+Coffee beans,2025-07-03,5
+Coffee beans,2025-07-04,11
+Coffee beans,2025-07-05,6
+Coffee beans,2025-07-06,6
+Coffee beans,2025-07-07,9
+Coffee beans,2025-07-08,10
+Coffee beans,2025-07-09,10
+Coffee beans,2025-07-10,7
+Coffee beans,2025-07-11,10
+Coffee beans,2025-07-12,9
+Coffee beans,2025-07-13,11
+Coffee beans,2025-07-14,7
+Coffee beans,2025-07-15,14
+Coffee beans,2025-07-16,16
+Coffee beans,2025-07-17,6
+Coffee beans,2025-07-18,11
+Coffee beans,2025-07-19,9
+Coffee beans,2025-07-20,11
+Coffee beans,2025-07-21,8
+Coffee beans,2025-07-22,15
+Coffee beans,2025-07-23,9
+Coffee beans,2025-07-24,9
+Coffee beans,2025-07-25,14
+Coffee beans,2025-07-26,8
+Coffee beans,2025-07-27,9
+Coffee beans,2025-07-28,4
+Coffee beans,2025-07-29,8
+Coffee beans,2025-07-30,5
+Coffee beans,2025-07-31,10
+Coffee beans,2025-08-01,3
+Coffee beans,2025-08-02,8
+Coffee beans,2025-08-03,6
+Coffee beans,2025-08-04,6
+Coffee beans,2025-08-05,5
+Coffee beans,2025-08-06,2
+Coffee beans,2025-08-07,4
+Coffee beans,2025-08-08,2
+Coffee beans,2025-08-12,6
+Coffee beans,2025-08-13,8
+Coffee beans,2025-08-14,4
+Coffee beans,2025-08-15,10
+Coffee beans,2025-08-16,2
+Coffee beans,2025-08-30,8
+Coffee beans,2025-08-31,4
+Coffee beans,2025-09-01,14
+Coffee beans,2025-09-02,7
+Coffee beans,2025-09-03,13
+Coffee beans,2025-09-04,7
+Coffee beans,2025-09-05,8
+Coffee beans,2025-09-06,11
+Coffee beans,2025-09-07,5
+Coffee beans,2025-09-08,8
+Coffee beans,2025-09-09,6
+Coffee beans,2025-09-10,3
+Coffee beans,2025-09-11,8
+Coffee beans,2025-09-12,8
+Coffee beans,2025-09-13,6
+Coffee beans,2025-09-14,5
+Coffee beans,2025-09-15,11
+Coffee beans,2025-09-16,16
+Coffee beans,2025-09-17,12
+Coffee beans,2025-09-18,10
+Coffee beans,2025-09-19,8
+Coffee beans,2025-09-20,8
+Coffee beans,2025-09-21,6
+Coffee beans,2025-09-22,8
+Coffee beans,2025-09-23,7
+Coffee beans,2025-09-24,32
+Coffee beans,2025-09-25,8
+Coffee beans,2025-09-26,8
+Coffee beans,2025-09-27,14
+Coffee beans,2025-09-28,11
+Coffee beans,2025-09-29,11
+Coffee beans,2025-09-30,9
+Coffee beans,2025-10-01,7
+Coffee beans,2025-10-02,13
+Coffee beans,2025-10-03,7
+Coffee beans,2025-10-04,14
+Coffee beans,2025-10-05,6
+Coffee beans,2025-10-06,6
+Coffee beans,2025-10-07,4
+Coffee beans,2025-10-08,9
+Coffee beans,2025-10-09,3
+Coffee beans,2025-10-10,4
+Coffee beans,2025-10-11,4
+Coffee beans,2025-10-12,4
+Coffee beans,2025-10-13,8
+Coffee beans,2025-10-14,3
+Coffee beans,2025-10-15,6
+Coffee beans,2025-10-16,4
+Coffee beans,2025-10-17,2
+Coffee beans,2025-10-18,3
+Coffee beans,2025-10-19,1
+Coffee beans,2025-10-24,7
+Coffee beans,2025-10-25,14
+Coffee beans,2025-10-26,2
+Drinking Chocolate,2025-01-01,64
+Drinking Chocolate,2025-01-02,50
+Drinking Chocolate,2025-01-03,61
+Drinking Chocolate,2025-01-04,68
+Drinking Chocolate,2025-01-05,70
+Drinking Chocolate,2025-01-06,53
+Drinking Chocolate,2025-01-07,65
+Drinking Chocolate,2025-01-08,56
+Drinking Chocolate,2025-01-09,55
+Drinking Chocolate,2025-01-10,62
+Drinking Chocolate,2025-01-11,53
+Drinking Chocolate,2025-01-12,63
+Drinking Chocolate,2025-01-13,56
+Drinking Chocolate,2025-01-14,37
+Drinking Chocolate,2025-01-15,58
+Drinking Chocolate,2025-01-16,46
+Drinking Chocolate,2025-01-17,53
+Drinking Chocolate,2025-01-18,55
+Drinking Chocolate,2025-01-19,61
+Drinking Chocolate,2025-01-20,51
+Drinking Chocolate,2025-01-21,62
+Drinking Chocolate,2025-01-22,55
+Drinking Chocolate,2025-01-23,32
+Drinking Chocolate,2025-01-24,70
+Drinking Chocolate,2025-01-25,66
+Drinking Chocolate,2025-01-26,52
+Drinking Chocolate,2025-01-27,71
+Drinking Chocolate,2025-01-28,70
+Drinking Chocolate,2025-01-29,59
+Drinking Chocolate,2025-01-30,45
+Drinking Chocolate,2025-01-31,76
+Drinking Chocolate,2025-02-01,62
+Drinking Chocolate,2025-02-02,75
+Drinking Chocolate,2025-02-03,65
+Drinking Chocolate,2025-02-04,41
+Drinking Chocolate,2025-02-05,82
+Drinking Chocolate,2025-02-06,57
+Drinking Chocolate,2025-02-07,63
+Drinking Chocolate,2025-02-08,67
+Drinking Chocolate,2025-02-09,53
+Drinking Chocolate,2025-02-10,65
+Drinking Chocolate,2025-02-11,50
+Drinking Chocolate,2025-02-12,61
+Drinking Chocolate,2025-02-13,59
+Drinking Chocolate,2025-02-14,59
+Drinking Chocolate,2025-02-15,51
+Drinking Chocolate,2025-02-16,51
+Drinking Chocolate,2025-02-17,63
+Drinking Chocolate,2025-02-18,55
+Drinking Chocolate,2025-02-19,56
+Drinking Chocolate,2025-02-20,58
+Drinking Chocolate,2025-02-21,65
+Drinking Chocolate,2025-02-22,57
+Drinking Chocolate,2025-02-23,59
+Drinking Chocolate,2025-02-24,62
+Drinking Chocolate,2025-02-25,66
+Drinking Chocolate,2025-02-26,49
+Drinking Chocolate,2025-02-27,59
+Drinking Chocolate,2025-02-28,62
+Drinking Chocolate,2025-03-01,56
+Drinking Chocolate,2025-03-02,65
+Drinking Chocolate,2025-03-03,70
+Drinking Chocolate,2025-03-04,66
+Drinking Chocolate,2025-03-05,58
+Drinking Chocolate,2025-03-06,50
+Drinking Chocolate,2025-03-07,70
+Drinking Chocolate,2025-03-08,57
+Drinking Chocolate,2025-03-09,56
+Drinking Chocolate,2025-03-10,74
+Drinking Chocolate,2025-03-11,57
+Drinking Chocolate,2025-03-12,60
+Drinking Chocolate,2025-03-13,75
+Drinking Chocolate,2025-03-14,62
+Drinking Chocolate,2025-03-15,77
+Drinking Chocolate,2025-03-16,81
+Drinking Chocolate,2025-03-17,52
+Drinking Chocolate,2025-03-18,49
+Drinking Chocolate,2025-03-19,45
+Drinking Chocolate,2025-03-20,58
+Drinking Chocolate,2025-03-21,46
+Drinking Chocolate,2025-03-22,54
+Drinking Chocolate,2025-03-23,56
+Drinking Chocolate,2025-03-24,55
+Drinking Chocolate,2025-03-25,50
+Drinking Chocolate,2025-03-26,67
+Drinking Chocolate,2025-03-27,23
+Drinking Chocolate,2025-03-28,56
+Drinking Chocolate,2025-03-29,69
+Drinking Chocolate,2025-03-30,40
+Drinking Chocolate,2025-03-31,60
+Drinking Chocolate,2025-04-01,32
+Drinking Chocolate,2025-04-02,64
+Drinking Chocolate,2025-04-03,52
+Drinking Chocolate,2025-04-04,63
+Drinking Chocolate,2025-04-05,50
+Drinking Chocolate,2025-04-06,64
+Drinking Chocolate,2025-04-07,54
+Drinking Chocolate,2025-04-08,73
+Drinking Chocolate,2025-04-09,62
+Drinking Chocolate,2025-04-10,79
+Drinking Chocolate,2025-04-11,66
+Drinking Chocolate,2025-04-12,59
+Drinking Chocolate,2025-04-13,53
+Drinking Chocolate,2025-04-14,58
+Drinking Chocolate,2025-04-15,75
+Drinking Chocolate,2025-04-16,59
+Drinking Chocolate,2025-04-17,64
+Drinking Chocolate,2025-04-18,51
+Drinking Chocolate,2025-04-19,53
+Drinking Chocolate,2025-04-20,53
+Drinking Chocolate,2025-04-21,54
+Drinking Chocolate,2025-04-22,61
+Drinking Chocolate,2025-04-23,66
+Drinking Chocolate,2025-04-24,70
+Drinking Chocolate,2025-04-25,71
+Drinking Chocolate,2025-04-26,79
+Drinking Chocolate,2025-04-27,62
+Drinking Chocolate,2025-04-28,65
+Drinking Chocolate,2025-04-29,71
+Drinking Chocolate,2025-04-30,45
+Drinking Chocolate,2025-05-01,54
+Drinking Chocolate,2025-05-02,41
+Drinking Chocolate,2025-05-03,52
+Drinking Chocolate,2025-05-04,63
+Drinking Chocolate,2025-05-05,50
+Drinking Chocolate,2025-05-06,51
+Drinking Chocolate,2025-05-07,50
+Drinking Chocolate,2025-05-08,51
+Drinking Chocolate,2025-05-09,57
+Drinking Chocolate,2025-05-10,59
+Drinking Chocolate,2025-05-11,62
+Drinking Chocolate,2025-05-12,59
+Drinking Chocolate,2025-05-13,43
+Drinking Chocolate,2025-05-14,55
+Drinking Chocolate,2025-05-15,84
+Drinking Chocolate,2025-05-16,57
+Drinking Chocolate,2025-05-17,48
+Drinking Chocolate,2025-05-18,31
+Drinking Chocolate,2025-05-19,54
+Drinking Chocolate,2025-05-20,50
+Drinking Chocolate,2025-05-21,46
+Drinking Chocolate,2025-05-22,49
+Drinking Chocolate,2025-05-23,62
+Drinking Chocolate,2025-05-24,40
+Drinking Chocolate,2025-05-25,55
+Drinking Chocolate,2025-05-26,65
+Drinking Chocolate,2025-05-27,58
+Drinking Chocolate,2025-05-28,66
+Drinking Chocolate,2025-05-29,75
+Drinking Chocolate,2025-05-30,56
+Drinking Chocolate,2025-05-31,70
+Drinking Chocolate,2025-06-01,63
+Drinking Chocolate,2025-06-02,84
+Drinking Chocolate,2025-06-03,51
+Drinking Chocolate,2025-06-04,57
+Drinking Chocolate,2025-06-05,67
+Drinking Chocolate,2025-06-06,56
+Drinking Chocolate,2025-06-07,57
+Drinking Chocolate,2025-06-08,70
+Drinking Chocolate,2025-06-09,60
+Drinking Chocolate,2025-06-10,61
+Drinking Chocolate,2025-06-11,67
+Drinking Chocolate,2025-06-12,69
+Drinking Chocolate,2025-06-13,59
+Drinking Chocolate,2025-06-14,68
+Drinking Chocolate,2025-06-15,56
+Drinking Chocolate,2025-06-16,65
+Drinking Chocolate,2025-06-17,70
+Drinking Chocolate,2025-06-18,67
+Drinking Chocolate,2025-06-19,71
+Drinking Chocolate,2025-06-20,64
+Drinking Chocolate,2025-06-21,63
+Drinking Chocolate,2025-06-22,67
+Drinking Chocolate,2025-06-23,43
+Drinking Chocolate,2025-06-24,65
+Drinking Chocolate,2025-06-25,46
+Drinking Chocolate,2025-06-26,50
+Drinking Chocolate,2025-06-27,44
+Drinking Chocolate,2025-06-28,59
+Drinking Chocolate,2025-06-29,59
+Drinking Chocolate,2025-06-30,56
+Drinking Chocolate,2025-07-01,43
+Drinking Chocolate,2025-07-02,63
+Drinking Chocolate,2025-07-03,39
+Drinking Chocolate,2025-07-04,61
+Drinking Chocolate,2025-07-05,51
+Drinking Chocolate,2025-07-06,56
+Drinking Chocolate,2025-07-07,56
+Drinking Chocolate,2025-07-08,57
+Drinking Chocolate,2025-07-09,33
+Drinking Chocolate,2025-07-10,64
+Drinking Chocolate,2025-07-11,62
+Drinking Chocolate,2025-07-12,68
+Drinking Chocolate,2025-07-13,48
+Drinking Chocolate,2025-07-14,53
+Drinking Chocolate,2025-07-15,60
+Drinking Chocolate,2025-07-16,47
+Drinking Chocolate,2025-07-17,64
+Drinking Chocolate,2025-07-18,81
+Drinking Chocolate,2025-07-19,51
+Drinking Chocolate,2025-07-20,46
+Drinking Chocolate,2025-07-21,61
+Drinking Chocolate,2025-07-22,48
+Drinking Chocolate,2025-07-23,44
+Drinking Chocolate,2025-07-24,68
+Drinking Chocolate,2025-07-25,50
+Drinking Chocolate,2025-07-26,44
+Drinking Chocolate,2025-07-27,63
+Drinking Chocolate,2025-07-28,66
+Drinking Chocolate,2025-07-29,67
+Drinking Chocolate,2025-07-30,64
+Drinking Chocolate,2025-07-31,58
+Drinking Chocolate,2025-08-01,67
+Drinking Chocolate,2025-08-02,68
+Drinking Chocolate,2025-08-03,68
+Drinking Chocolate,2025-08-04,73
+Drinking Chocolate,2025-08-05,48
+Drinking Chocolate,2025-08-06,53
+Drinking Chocolate,2025-08-07,66
+Drinking Chocolate,2025-08-08,84
+Drinking Chocolate,2025-08-09,52
+Drinking Chocolate,2025-08-10,65
+Drinking Chocolate,2025-08-11,53
+Drinking Chocolate,2025-08-12,73
+Drinking Chocolate,2025-08-13,49
+Drinking Chocolate,2025-08-14,56
+Drinking Chocolate,2025-08-15,45
+Drinking Chocolate,2025-08-16,53
+Drinking Chocolate,2025-08-17,80
+Drinking Chocolate,2025-08-18,59
+Drinking Chocolate,2025-08-19,60
+Drinking Chocolate,2025-08-20,69
+Drinking Chocolate,2025-08-21,72
+Drinking Chocolate,2025-08-22,54
+Drinking Chocolate,2025-08-23,86
+Drinking Chocolate,2025-08-24,66
+Drinking Chocolate,2025-08-25,52
+Drinking Chocolate,2025-08-26,70
+Drinking Chocolate,2025-08-27,53
+Drinking Chocolate,2025-08-28,69
+Drinking Chocolate,2025-08-29,69
+Drinking Chocolate,2025-08-30,33
+Drinking Chocolate,2025-08-31,55
+Drinking Chocolate,2025-09-01,59
+Drinking Chocolate,2025-09-02,41
+Drinking Chocolate,2025-09-03,53
+Drinking Chocolate,2025-09-04,63
+Drinking Chocolate,2025-09-05,69
+Drinking Chocolate,2025-09-06,39
+Drinking Chocolate,2025-09-07,53
+Drinking Chocolate,2025-09-08,47
+Drinking Chocolate,2025-09-09,52
+Drinking Chocolate,2025-09-10,49
+Drinking Chocolate,2025-09-11,55
+Drinking Chocolate,2025-09-12,57
+Drinking Chocolate,2025-09-13,46
+Drinking Chocolate,2025-09-14,47
+Drinking Chocolate,2025-09-15,81
+Drinking Chocolate,2025-09-16,40
+Drinking Chocolate,2025-09-17,45
+Drinking Chocolate,2025-09-18,48
+Drinking Chocolate,2025-09-19,74
+Drinking Chocolate,2025-09-20,67
+Drinking Chocolate,2025-09-21,46
+Drinking Chocolate,2025-09-22,49
+Drinking Chocolate,2025-09-23,57
+Drinking Chocolate,2025-09-24,39
+Drinking Chocolate,2025-09-25,46
+Drinking Chocolate,2025-09-26,55
+Drinking Chocolate,2025-09-27,76
+Drinking Chocolate,2025-09-28,63
+Drinking Chocolate,2025-09-29,52
+Drinking Chocolate,2025-09-30,60
+Drinking Chocolate,2025-10-01,49
+Drinking Chocolate,2025-10-02,43
+Drinking Chocolate,2025-10-03,64
+Drinking Chocolate,2025-10-04,45
+Drinking Chocolate,2025-10-05,57
+Drinking Chocolate,2025-10-06,78
+Drinking Chocolate,2025-10-07,63
+Drinking Chocolate,2025-10-08,55
+Drinking Chocolate,2025-10-09,52
+Drinking Chocolate,2025-10-10,68
+Drinking Chocolate,2025-10-11,69
+Drinking Chocolate,2025-10-12,72
+Drinking Chocolate,2025-10-13,58
+Drinking Chocolate,2025-10-14,77
+Drinking Chocolate,2025-10-15,59
+Drinking Chocolate,2025-10-16,49
+Drinking Chocolate,2025-10-17,59
+Drinking Chocolate,2025-10-18,63
+Drinking Chocolate,2025-10-19,72
+Drinking Chocolate,2025-10-20,49
+Drinking Chocolate,2025-10-21,78
+Drinking Chocolate,2025-10-22,54
+Drinking Chocolate,2025-10-23,68
+Drinking Chocolate,2025-10-24,47
+Drinking Chocolate,2025-10-25,54
+Drinking Chocolate,2025-10-26,15
+Flavours,2025-01-07,27
+Flavours,2025-01-08,30
+Flavours,2025-01-09,39
+Flavours,2025-01-10,37
+Flavours,2025-01-11,51
+Flavours,2025-01-12,61
+Flavours,2025-01-13,74
+Flavours,2025-01-14,64
+Flavours,2025-01-15,59
+Flavours,2025-01-16,67
+Flavours,2025-01-17,48
+Flavours,2025-01-18,57
+Flavours,2025-01-19,61
+Flavours,2025-01-20,66
+Flavours,2025-01-21,52
+Flavours,2025-01-22,53
+Flavours,2025-01-23,55
+Flavours,2025-01-24,62
+Flavours,2025-01-25,39
+Flavours,2025-01-26,20
+Flavours,2025-01-27,31
+Flavours,2025-01-28,17
+Flavours,2025-01-29,26
+Flavours,2025-01-30,29
+Flavours,2025-01-31,31
+Flavours,2025-02-02,10
+Flavours,2025-02-03,40
+Flavours,2025-02-04,12
+Flavours,2025-02-11,33
+Flavours,2025-02-12,32
+Flavours,2025-02-13,41
+Flavours,2025-02-14,42
+Flavours,2025-02-15,59
+Flavours,2025-02-16,64
+Flavours,2025-02-17,74
+Flavours,2025-02-18,49
+Flavours,2025-02-19,73
+Flavours,2025-02-20,81
+Flavours,2025-02-21,46
+Flavours,2025-02-22,39
+Flavours,2025-02-23,42
+Flavours,2025-02-24,61
+Flavours,2025-02-25,56
+Flavours,2025-02-26,54
+Flavours,2025-02-27,49
+Flavours,2025-02-28,66
+Flavours,2025-03-01,33
+Flavours,2025-03-02,28
+Flavours,2025-03-03,22
+Flavours,2025-03-04,23
+Flavours,2025-03-05,18
+Flavours,2025-03-06,25
+Flavours,2025-03-07,40
+Flavours,2025-03-08,13
+Flavours,2025-03-17,35
+Flavours,2025-03-18,40
+Flavours,2025-03-19,46
+Flavours,2025-03-20,25
+Flavours,2025-03-21,41
+Flavours,2025-03-22,65
+Flavours,2025-03-23,85
+Flavours,2025-03-24,71
+Flavours,2025-03-25,68
+Flavours,2025-03-26,58
+Flavours,2025-03-27,72
+Flavours,2025-03-28,58
+Flavours,2025-03-29,45
+Flavours,2025-03-30,36
+Flavours,2025-03-31,44
+Flavours,2025-04-01,59
+Flavours,2025-04-02,55
+Flavours,2025-04-03,39
+Flavours,2025-04-04,52
+Flavours,2025-04-05,51
+Flavours,2025-04-06,63
+Flavours,2025-04-07,53
+Flavours,2025-04-08,21
+Flavours,2025-04-09,31
+Flavours,2025-04-10,26
+Flavours,2025-04-11,34
+Flavours,2025-04-12,13
+Flavours,2025-04-13,25
+Flavours,2025-04-14,26
+Flavours,2025-04-15,29
+Flavours,2025-04-18,32
+Flavours,2025-04-19,32
+Flavours,2025-04-20,35
+Flavours,2025-04-30,27
+Flavours,2025-05-01,42
+Flavours,2025-05-02,46
+Flavours,2025-05-03,37
+Flavours,2025-05-04,33
+Flavours,2025-05-05,36
+Flavours,2025-05-06,60
+Flavours,2025-05-07,54
+Flavours,2025-05-08,71
+Flavours,2025-05-09,71
+Flavours,2025-05-10,74
+Flavours,2025-05-11,57
+Flavours,2025-05-12,58
+Flavours,2025-05-13,70
+Flavours,2025-05-14,56
+Flavours,2025-05-15,47
+Flavours,2025-05-16,40
+Flavours,2025-05-17,46
+Flavours,2025-05-18,64
+Flavours,2025-05-19,43
+Flavours,2025-05-20,60
+Flavours,2025-05-21,45
+Flavours,2025-05-22,50
+Flavours,2025-05-23,55
+Flavours,2025-05-24,53
+Flavours,2025-05-25,52
+Flavours,2025-05-26,51
+Flavours,2025-05-27,29
+Flavours,2025-05-28,28
+Flavours,2025-05-29,19
+Flavours,2025-05-30,30
+Flavours,2025-05-31,41
+Flavours,2025-06-01,22
+Flavours,2025-06-02,27
+Flavours,2025-06-03,29
+Flavours,2025-06-04,52
+Flavours,2025-06-05,39
+Flavours,2025-06-06,2
+Flavours,2025-06-08,8
+Flavours,2025-06-09,35
+Flavours,2025-06-10,14
+Flavours,2025-06-23,57
+Flavours,2025-06-24,30
+Flavours,2025-06-25,61
+Flavours,2025-06-26,39
+Flavours,2025-06-27,38
+Flavours,2025-06-28,34
+Flavours,2025-06-29,39
+Flavours,2025-06-30,55
+Flavours,2025-07-01,57
+Flavours,2025-07-02,54
+Flavours,2025-07-03,67
+Flavours,2025-07-04,74
+Flavours,2025-07-05,76
+Flavours,2025-07-06,69
+Flavours,2025-07-07,52
+Flavours,2025-07-08,57
+Flavours,2025-07-09,82
+Flavours,2025-07-10,57
+Flavours,2025-07-11,54
+Flavours,2025-07-12,28
+Flavours,2025-07-13,49
+Flavours,2025-07-14,48
+Flavours,2025-07-15,57
+Flavours,2025-07-16,54
+Flavours,2025-07-17,52
+Flavours,2025-07-18,61
+Flavours,2025-07-19,59
+Flavours,2025-07-20,65
+Flavours,2025-07-21,46
+Flavours,2025-07-22,62
+Flavours,2025-07-23,52
+Flavours,2025-07-24,54
+Flavours,2025-07-25,53
+Flavours,2025-07-26,62
+Flavours,2025-07-27,18
+Flavours,2025-07-28,35
+Flavours,2025-07-29,32
+Flavours,2025-07-30,22
+Flavours,2025-07-31,26
+Flavours,2025-08-01,26
+Flavours,2025-08-02,23
+Flavours,2025-08-03,15
+Flavours,2025-08-04,25
+Flavours,2025-08-05,23
+Flavours,2025-08-06,39
+Flavours,2025-08-07,46
+Flavours,2025-08-08,34
+Flavours,2025-08-12,19
+Flavours,2025-08-13,49
+Flavours,2025-08-14,34
+Flavours,2025-08-15,40
+Flavours,2025-08-16,22
+Flavours,2025-08-30,44
+Flavours,2025-08-31,38
+Flavours,2025-09-01,34
+Flavours,2025-09-02,41
+Flavours,2025-09-03,45
+Flavours,2025-09-04,25
+Flavours,2025-09-05,37
+Flavours,2025-09-06,42
+Flavours,2025-09-07,75
+Flavours,2025-09-08,58
+Flavours,2025-09-09,67
+Flavours,2025-09-10,66
+Flavours,2025-09-11,67
+Flavours,2025-09-12,75
+Flavours,2025-09-13,64
+Flavours,2025-09-14,66
+Flavours,2025-09-15,57
+Flavours,2025-09-16,67
+Flavours,2025-09-17,63
+Flavours,2025-09-18,59
+Flavours,2025-09-19,45
+Flavours,2025-09-20,42
+Flavours,2025-09-21,49
+Flavours,2025-09-22,56
+Flavours,2025-09-23,59
+Flavours,2025-09-24,54
+Flavours,2025-09-25,48
+Flavours,2025-09-26,67
+Flavours,2025-09-27,50
+Flavours,2025-09-28,45
+Flavours,2025-09-29,56
+Flavours,2025-09-30,49
+Flavours,2025-10-01,63
+Flavours,2025-10-02,49
+Flavours,2025-10-03,61
+Flavours,2025-10-04,54
+Flavours,2025-10-05,60
+Flavours,2025-10-06,27
+Flavours,2025-10-07,27
+Flavours,2025-10-08,41
+Flavours,2025-10-09,20
+Flavours,2025-10-10,15
+Flavours,2025-10-11,25
+Flavours,2025-10-12,30
+Flavours,2025-10-13,22
+Flavours,2025-10-14,18
+Flavours,2025-10-15,34
+Flavours,2025-10-16,27
+Flavours,2025-10-17,40
+Flavours,2025-10-18,40
+Flavours,2025-10-19,30
+Flavours,2025-10-24,65
+Flavours,2025-10-25,45
+Flavours,2025-10-26,7
+Loose Tea,2025-01-07,2
+Loose Tea,2025-01-08,3
+Loose Tea,2025-01-09,8
+Loose Tea,2025-01-10,7
+Loose Tea,2025-01-11,6
+Loose Tea,2025-01-12,7
+Loose Tea,2025-01-13,5
+Loose Tea,2025-01-14,6
+Loose Tea,2025-01-15,7
+Loose Tea,2025-01-16,7
+Loose Tea,2025-01-17,3
+Loose Tea,2025-01-18,6
+Loose Tea,2025-01-19,6
+Loose Tea,2025-01-20,8
+Loose Tea,2025-01-21,4
+Loose Tea,2025-01-22,6
+Loose Tea,2025-01-23,6
+Loose Tea,2025-01-24,5
+Loose Tea,2025-01-25,1
+Loose Tea,2025-01-26,3
+Loose Tea,2025-01-27,5
+Loose Tea,2025-01-28,4
+Loose Tea,2025-01-29,4
+Loose Tea,2025-01-30,6
+Loose Tea,2025-02-03,10
+Loose Tea,2025-02-04,6
+Loose Tea,2025-02-11,4
+Loose Tea,2025-02-12,4
+Loose Tea,2025-02-13,5
+Loose Tea,2025-02-14,4
+Loose Tea,2025-02-15,5
+Loose Tea,2025-02-16,3
+Loose Tea,2025-02-17,10
+Loose Tea,2025-02-18,5
+Loose Tea,2025-02-19,10
+Loose Tea,2025-02-20,11
+Loose Tea,2025-02-21,9
+Loose Tea,2025-02-22,7
+Loose Tea,2025-02-23,4
+Loose Tea,2025-02-24,6
+Loose Tea,2025-02-25,5
+Loose Tea,2025-02-26,6
+Loose Tea,2025-02-27,4
+Loose Tea,2025-02-28,4
+Loose Tea,2025-03-01,4
+Loose Tea,2025-03-02,2
+Loose Tea,2025-03-03,5
+Loose Tea,2025-03-04,10
+Loose Tea,2025-03-05,5
+Loose Tea,2025-03-06,3
+Loose Tea,2025-03-07,2
+Loose Tea,2025-03-17,3
+Loose Tea,2025-03-18,4
+Loose Tea,2025-03-19,6
+Loose Tea,2025-03-20,8
+Loose Tea,2025-03-21,3
+Loose Tea,2025-03-22,9
+Loose Tea,2025-03-23,7
+Loose Tea,2025-03-24,3
+Loose Tea,2025-03-25,8
+Loose Tea,2025-03-26,5
+Loose Tea,2025-03-27,7
+Loose Tea,2025-03-28,9
+Loose Tea,2025-03-29,11
+Loose Tea,2025-03-30,5
+Loose Tea,2025-03-31,5
+Loose Tea,2025-04-01,5
+Loose Tea,2025-04-02,8
+Loose Tea,2025-04-03,5
+Loose Tea,2025-04-04,5
+Loose Tea,2025-04-05,9
+Loose Tea,2025-04-06,5
+Loose Tea,2025-04-07,6
+Loose Tea,2025-04-08,2
+Loose Tea,2025-04-09,4
+Loose Tea,2025-04-10,3
+Loose Tea,2025-04-11,5
+Loose Tea,2025-04-12,4
+Loose Tea,2025-04-13,6
+Loose Tea,2025-04-14,1
+Loose Tea,2025-04-18,7
+Loose Tea,2025-04-19,5
+Loose Tea,2025-04-20,5
+Loose Tea,2025-04-30,3
+Loose Tea,2025-05-01,3
+Loose Tea,2025-05-02,7
+Loose Tea,2025-05-03,7
+Loose Tea,2025-05-04,9
+Loose Tea,2025-05-05,8
+Loose Tea,2025-05-06,6
+Loose Tea,2025-05-07,6
+Loose Tea,2025-05-08,4
+Loose Tea,2025-05-09,6
+Loose Tea,2025-05-10,12
+Loose Tea,2025-05-11,3
+Loose Tea,2025-05-12,6
+Loose Tea,2025-05-13,9
+Loose Tea,2025-05-14,6
+Loose Tea,2025-05-15,4
+Loose Tea,2025-05-16,8
+Loose Tea,2025-05-17,3
+Loose Tea,2025-05-18,4
+Loose Tea,2025-05-19,7
+Loose Tea,2025-05-20,5
+Loose Tea,2025-05-21,5
+Loose Tea,2025-05-22,4
+Loose Tea,2025-05-23,5
+Loose Tea,2025-05-24,8
+Loose Tea,2025-05-25,5
+Loose Tea,2025-05-26,4
+Loose Tea,2025-05-27,3
+Loose Tea,2025-05-28,6
+Loose Tea,2025-05-29,2
+Loose Tea,2025-05-30,5
+Loose Tea,2025-05-31,6
+Loose Tea,2025-06-01,3
+Loose Tea,2025-06-02,5
+Loose Tea,2025-06-03,2
+Loose Tea,2025-06-05,2
+Loose Tea,2025-06-09,4
+Loose Tea,2025-06-10,2
+Loose Tea,2025-06-22,1
+Loose Tea,2025-06-23,1
+Loose Tea,2025-06-25,6
+Loose Tea,2025-06-26,9
+Loose Tea,2025-06-27,7
+Loose Tea,2025-06-28,2
+Loose Tea,2025-06-29,7
+Loose Tea,2025-06-30,9
+Loose Tea,2025-07-01,7
+Loose Tea,2025-07-02,5
+Loose Tea,2025-07-03,4
+Loose Tea,2025-07-04,6
+Loose Tea,2025-07-05,8
+Loose Tea,2025-07-06,7
+Loose Tea,2025-07-07,5
+Loose Tea,2025-07-08,5
+Loose Tea,2025-07-09,12
+Loose Tea,2025-07-10,9
+Loose Tea,2025-07-11,6
+Loose Tea,2025-07-12,7
+Loose Tea,2025-07-13,9
+Loose Tea,2025-07-14,3
+Loose Tea,2025-07-15,6
+Loose Tea,2025-07-16,4
+Loose Tea,2025-07-17,6
+Loose Tea,2025-07-18,10
+Loose Tea,2025-07-19,3
+Loose Tea,2025-07-20,4
+Loose Tea,2025-07-21,5
+Loose Tea,2025-07-22,8
+Loose Tea,2025-07-23,10
+Loose Tea,2025-07-24,4
+Loose Tea,2025-07-25,3
+Loose Tea,2025-07-26,5
+Loose Tea,2025-07-27,2
+Loose Tea,2025-07-28,6
+Loose Tea,2025-07-29,4
+Loose Tea,2025-07-31,4
+Loose Tea,2025-08-02,5
+Loose Tea,2025-08-03,3
+Loose Tea,2025-08-04,5
+Loose Tea,2025-08-05,2
+Loose Tea,2025-08-06,2
+Loose Tea,2025-08-07,2
+Loose Tea,2025-08-08,1
+Loose Tea,2025-08-12,3
+Loose Tea,2025-08-13,5
+Loose Tea,2025-08-14,1
+Loose Tea,2025-08-15,7
+Loose Tea,2025-08-16,4
+Loose Tea,2025-08-29,2
+Loose Tea,2025-08-30,4
+Loose Tea,2025-08-31,2
+Loose Tea,2025-09-01,6
+Loose Tea,2025-09-02,10
+Loose Tea,2025-09-03,9
+Loose Tea,2025-09-04,7
+Loose Tea,2025-09-05,9
+Loose Tea,2025-09-06,2
+Loose Tea,2025-09-07,7
+Loose Tea,2025-09-08,10
+Loose Tea,2025-09-09,6
+Loose Tea,2025-09-10,6
+Loose Tea,2025-09-11,5
+Loose Tea,2025-09-12,11
+Loose Tea,2025-09-13,5
+Loose Tea,2025-09-14,4
+Loose Tea,2025-09-15,5
+Loose Tea,2025-09-16,9
+Loose Tea,2025-09-17,8
+Loose Tea,2025-09-18,7
+Loose Tea,2025-09-19,7
+Loose Tea,2025-09-20,7
+Loose Tea,2025-09-21,10
+Loose Tea,2025-09-22,3
+Loose Tea,2025-09-23,7
+Loose Tea,2025-09-24,4
+Loose Tea,2025-09-25,4
+Loose Tea,2025-09-26,9
+Loose Tea,2025-09-27,7
+Loose Tea,2025-09-28,3
+Loose Tea,2025-09-29,6
+Loose Tea,2025-09-30,4
+Loose Tea,2025-10-01,10
+Loose Tea,2025-10-02,8
+Loose Tea,2025-10-03,6
+Loose Tea,2025-10-04,3
+Loose Tea,2025-10-05,5
+Loose Tea,2025-10-06,3
+Loose Tea,2025-10-07,7
+Loose Tea,2025-10-08,5
+Loose Tea,2025-10-09,3
+Loose Tea,2025-10-10,2
+Loose Tea,2025-10-11,4
+Loose Tea,2025-10-12,6
+Loose Tea,2025-10-13,5
+Loose Tea,2025-10-14,4
+Loose Tea,2025-10-15,8
+Loose Tea,2025-10-16,2
+Loose Tea,2025-10-17,1
+Loose Tea,2025-10-18,1
+Loose Tea,2025-10-19,1
+Loose Tea,2025-10-24,3
+Loose Tea,2025-10-25,6
+Packaged Chocolate,2025-01-07,1
+Packaged Chocolate,2025-01-08,1
+Packaged Chocolate,2025-01-09,3
+Packaged Chocolate,2025-01-10,6
+Packaged Chocolate,2025-01-11,2
+Packaged Chocolate,2025-01-12,3
+Packaged Chocolate,2025-01-13,4
+Packaged Chocolate,2025-01-14,1
+Packaged Chocolate,2025-01-15,4
+Packaged Chocolate,2025-01-16,3
+Packaged Chocolate,2025-01-17,5
+Packaged Chocolate,2025-01-18,4
+Packaged Chocolate,2025-01-19,2
+Packaged Chocolate,2025-01-20,1
+Packaged Chocolate,2025-01-21,5
+Packaged Chocolate,2025-01-22,2
+Packaged Chocolate,2025-01-23,1
+Packaged Chocolate,2025-01-25,1
+Packaged Chocolate,2025-01-26,2
+Packaged Chocolate,2025-01-28,1
+Packaged Chocolate,2025-01-29,1
+Packaged Chocolate,2025-01-30,1
+Packaged Chocolate,2025-01-31,1
+Packaged Chocolate,2025-02-03,2
+Packaged Chocolate,2025-02-11,3
+Packaged Chocolate,2025-02-13,4
+Packaged Chocolate,2025-02-14,6
+Packaged Chocolate,2025-02-15,2
+Packaged Chocolate,2025-02-16,4
+Packaged Chocolate,2025-02-17,5
+Packaged Chocolate,2025-02-18,1
+Packaged Chocolate,2025-02-19,3
+Packaged Chocolate,2025-02-20,1
+Packaged Chocolate,2025-02-21,2
+Packaged Chocolate,2025-02-22,2
+Packaged Chocolate,2025-02-23,2
+Packaged Chocolate,2025-02-24,2
+Packaged Chocolate,2025-02-25,1
+Packaged Chocolate,2025-02-27,3
+Packaged Chocolate,2025-02-28,2
+Packaged Chocolate,2025-03-02,3
+Packaged Chocolate,2025-03-03,1
+Packaged Chocolate,2025-03-05,2
+Packaged Chocolate,2025-03-08,2
+Packaged Chocolate,2025-03-17,1
+Packaged Chocolate,2025-03-18,1
+Packaged Chocolate,2025-03-19,3
+Packaged Chocolate,2025-03-20,6
+Packaged Chocolate,2025-03-21,4
+Packaged Chocolate,2025-03-22,2
+Packaged Chocolate,2025-03-24,4
+Packaged Chocolate,2025-03-25,2
+Packaged Chocolate,2025-03-26,1
+Packaged Chocolate,2025-03-27,4
+Packaged Chocolate,2025-03-28,1
+Packaged Chocolate,2025-03-29,5
+Packaged Chocolate,2025-03-30,3
+Packaged Chocolate,2025-03-31,2
+Packaged Chocolate,2025-04-01,5
+Packaged Chocolate,2025-04-02,1
+Packaged Chocolate,2025-04-03,1
+Packaged Chocolate,2025-04-04,2
+Packaged Chocolate,2025-04-05,1
+Packaged Chocolate,2025-04-06,4
+Packaged Chocolate,2025-04-07,2
+Packaged Chocolate,2025-04-08,2
+Packaged Chocolate,2025-04-09,2
+Packaged Chocolate,2025-04-14,1
+Packaged Chocolate,2025-04-18,2
+Packaged Chocolate,2025-04-19,2
+Packaged Chocolate,2025-04-20,1
+Packaged Chocolate,2025-05-01,1
+Packaged Chocolate,2025-05-02,1
+Packaged Chocolate,2025-05-03,3
+Packaged Chocolate,2025-05-04,5
+Packaged Chocolate,2025-05-05,2
+Packaged Chocolate,2025-05-06,2
+Packaged Chocolate,2025-05-07,2
+Packaged Chocolate,2025-05-08,5
+Packaged Chocolate,2025-05-09,4
+Packaged Chocolate,2025-05-10,1
+Packaged Chocolate,2025-05-11,2
+Packaged Chocolate,2025-05-12,8
+Packaged Chocolate,2025-05-13,1
+Packaged Chocolate,2025-05-14,4
+Packaged Chocolate,2025-05-15,5
+Packaged Chocolate,2025-05-16,1
+Packaged Chocolate,2025-05-17,6
+Packaged Chocolate,2025-05-18,1
+Packaged Chocolate,2025-05-19,4
+Packaged Chocolate,2025-05-20,4
+Packaged Chocolate,2025-05-21,5
+Packaged Chocolate,2025-05-22,1
+Packaged Chocolate,2025-05-23,2
+Packaged Chocolate,2025-05-24,3
+Packaged Chocolate,2025-05-25,3
+Packaged Chocolate,2025-05-26,2
+Packaged Chocolate,2025-05-27,2
+Packaged Chocolate,2025-05-28,5
+Packaged Chocolate,2025-05-29,1
+Packaged Chocolate,2025-06-01,3
+Packaged Chocolate,2025-06-02,1
+Packaged Chocolate,2025-06-05,2
+Packaged Chocolate,2025-06-09,2
+Packaged Chocolate,2025-06-10,1
+Packaged Chocolate,2025-06-22,1
+Packaged Chocolate,2025-06-23,3
+Packaged Chocolate,2025-06-24,1
+Packaged Chocolate,2025-06-25,1
+Packaged Chocolate,2025-06-26,2
+Packaged Chocolate,2025-06-27,5
+Packaged Chocolate,2025-06-28,5
+Packaged Chocolate,2025-06-29,1
+Packaged Chocolate,2025-06-30,4
+Packaged Chocolate,2025-07-01,2
+Packaged Chocolate,2025-07-03,6
+Packaged Chocolate,2025-07-04,3
+Packaged Chocolate,2025-07-05,1
+Packaged Chocolate,2025-07-06,1
+Packaged Chocolate,2025-07-07,5
+Packaged Chocolate,2025-07-08,6
+Packaged Chocolate,2025-07-09,1
+Packaged Chocolate,2025-07-10,4
+Packaged Chocolate,2025-07-11,3
+Packaged Chocolate,2025-07-12,2
+Packaged Chocolate,2025-07-14,3
+Packaged Chocolate,2025-07-15,1
+Packaged Chocolate,2025-07-17,4
+Packaged Chocolate,2025-07-18,2
+Packaged Chocolate,2025-07-19,5
+Packaged Chocolate,2025-07-21,1
+Packaged Chocolate,2025-07-22,1
+Packaged Chocolate,2025-07-23,3
+Packaged Chocolate,2025-07-24,5
+Packaged Chocolate,2025-07-25,2
+Packaged Chocolate,2025-07-26,3
+Packaged Chocolate,2025-07-28,2
+Packaged Chocolate,2025-07-29,2
+Packaged Chocolate,2025-07-30,1
+Packaged Chocolate,2025-08-01,1
+Packaged Chocolate,2025-08-02,1
+Packaged Chocolate,2025-08-03,1
+Packaged Chocolate,2025-08-04,2
+Packaged Chocolate,2025-08-08,1
+Packaged Chocolate,2025-08-12,2
+Packaged Chocolate,2025-08-13,1
+Packaged Chocolate,2025-08-14,2
+Packaged Chocolate,2025-08-15,4
+Packaged Chocolate,2025-08-16,1
+Packaged Chocolate,2025-08-29,1
+Packaged Chocolate,2025-08-30,2
+Packaged Chocolate,2025-08-31,1
+Packaged Chocolate,2025-09-01,2
+Packaged Chocolate,2025-09-02,1
+Packaged Chocolate,2025-09-03,5
+Packaged Chocolate,2025-09-04,3
+Packaged Chocolate,2025-09-05,4
+Packaged Chocolate,2025-09-06,4
+Packaged Chocolate,2025-09-07,1
+Packaged Chocolate,2025-09-08,2
+Packaged Chocolate,2025-09-09,1
+Packaged Chocolate,2025-09-10,7
+Packaged Chocolate,2025-09-11,2
+Packaged Chocolate,2025-09-12,1
+Packaged Chocolate,2025-09-13,2
+Packaged Chocolate,2025-09-14,3
+Packaged Chocolate,2025-09-15,4
+Packaged Chocolate,2025-09-16,2
+Packaged Chocolate,2025-09-17,2
+Packaged Chocolate,2025-09-18,4
+Packaged Chocolate,2025-09-19,4
+Packaged Chocolate,2025-09-20,2
+Packaged Chocolate,2025-09-21,1
+Packaged Chocolate,2025-09-22,2
+Packaged Chocolate,2025-09-23,2
+Packaged Chocolate,2025-09-25,4
+Packaged Chocolate,2025-09-26,3
+Packaged Chocolate,2025-09-27,2
+Packaged Chocolate,2025-09-28,3
+Packaged Chocolate,2025-09-29,1
+Packaged Chocolate,2025-10-01,2
+Packaged Chocolate,2025-10-02,2
+Packaged Chocolate,2025-10-03,4
+Packaged Chocolate,2025-10-04,2
+Packaged Chocolate,2025-10-05,2
+Packaged Chocolate,2025-10-06,1
+Packaged Chocolate,2025-10-07,1
+Packaged Chocolate,2025-10-08,3
+Packaged Chocolate,2025-10-10,1
+Packaged Chocolate,2025-10-12,1
+Packaged Chocolate,2025-10-13,1
+Packaged Chocolate,2025-10-14,1
+Packaged Chocolate,2025-10-15,2
+Packaged Chocolate,2025-10-19,2
+Packaged Chocolate,2025-10-24,3
+Packaged Chocolate,2025-10-25,4
+Packaged Chocolate,2025-10-26,1
+Tea,2025-01-01,262
+Tea,2025-01-02,244
+Tea,2025-01-03,256
+Tea,2025-01-04,251
+Tea,2025-01-05,269
+Tea,2025-01-06,251
+Tea,2025-01-07,225
+Tea,2025-01-08,237
+Tea,2025-01-09,227
+Tea,2025-01-10,224
+Tea,2025-01-11,233
+Tea,2025-01-12,226
+Tea,2025-01-13,210
+Tea,2025-01-14,235
+Tea,2025-01-15,209
+Tea,2025-01-16,198
+Tea,2025-01-17,228
+Tea,2025-01-18,197
+Tea,2025-01-19,205
+Tea,2025-01-20,217
+Tea,2025-01-21,225
+Tea,2025-01-22,206
+Tea,2025-01-23,179
+Tea,2025-01-24,222
+Tea,2025-01-25,275
+Tea,2025-01-26,252
+Tea,2025-01-27,243
+Tea,2025-01-28,260
+Tea,2025-01-29,257
+Tea,2025-01-30,255
+Tea,2025-01-31,268
+Tea,2025-02-01,234
+Tea,2025-02-02,211
+Tea,2025-02-03,224
+Tea,2025-02-04,248
+Tea,2025-02-05,260
+Tea,2025-02-06,287
+Tea,2025-02-07,259
+Tea,2025-02-08,247
+Tea,2025-02-09,269
+Tea,2025-02-10,244
+Tea,2025-02-11,261
+Tea,2025-02-12,236
+Tea,2025-02-13,211
+Tea,2025-02-14,216
+Tea,2025-02-15,231
+Tea,2025-02-16,217
+Tea,2025-02-17,208
+Tea,2025-02-18,225
+Tea,2025-02-19,181
+Tea,2025-02-20,190
+Tea,2025-02-21,226
+Tea,2025-02-22,230
+Tea,2025-02-23,219
+Tea,2025-02-24,192
+Tea,2025-02-25,188
+Tea,2025-02-26,216
+Tea,2025-02-27,189
+Tea,2025-02-28,222
+Tea,2025-03-01,256
+Tea,2025-03-02,275
+Tea,2025-03-03,245
+Tea,2025-03-04,274
+Tea,2025-03-05,271
+Tea,2025-03-06,252
+Tea,2025-03-07,278
+Tea,2025-03-08,254
+Tea,2025-03-09,265
+Tea,2025-03-10,261
+Tea,2025-03-11,267
+Tea,2025-03-12,269
+Tea,2025-03-13,251
+Tea,2025-03-14,279
+Tea,2025-03-15,260
+Tea,2025-03-16,232
+Tea,2025-03-17,230
+Tea,2025-03-18,220
+Tea,2025-03-19,216
+Tea,2025-03-20,219
+Tea,2025-03-21,238
+Tea,2025-03-22,237
+Tea,2025-03-23,224
+Tea,2025-03-24,200
+Tea,2025-03-25,195
+Tea,2025-03-26,231
+Tea,2025-03-27,190
+Tea,2025-03-28,206
+Tea,2025-03-29,211
+Tea,2025-03-30,229
+Tea,2025-03-31,214
+Tea,2025-04-01,196
+Tea,2025-04-02,226
+Tea,2025-04-03,210
+Tea,2025-04-04,217
+Tea,2025-04-05,203
+Tea,2025-04-06,215
+Tea,2025-04-07,224
+Tea,2025-04-08,286
+Tea,2025-04-09,246
+Tea,2025-04-10,234
+Tea,2025-04-11,238
+Tea,2025-04-12,268
+Tea,2025-04-13,288
+Tea,2025-04-14,279
+Tea,2025-04-15,249
+Tea,2025-04-16,223
+Tea,2025-04-17,216
+Tea,2025-04-18,217
+Tea,2025-04-19,218
+Tea,2025-04-20,256
+Tea,2025-04-21,244
+Tea,2025-04-22,262
+Tea,2025-04-23,254
+Tea,2025-04-24,259
+Tea,2025-04-25,258
+Tea,2025-04-26,280
+Tea,2025-04-27,240
+Tea,2025-04-28,265
+Tea,2025-04-29,263
+Tea,2025-04-30,247
+Tea,2025-05-01,239
+Tea,2025-05-02,223
+Tea,2025-05-03,220
+Tea,2025-05-04,212
+Tea,2025-05-05,230
+Tea,2025-05-06,218
+Tea,2025-05-07,252
+Tea,2025-05-08,222
+Tea,2025-05-09,214
+Tea,2025-05-10,192
+Tea,2025-05-11,239
+Tea,2025-05-12,200
+Tea,2025-05-13,178
+Tea,2025-05-14,223
+Tea,2025-05-15,197
+Tea,2025-05-16,204
+Tea,2025-05-17,218
+Tea,2025-05-18,220
+Tea,2025-05-19,205
+Tea,2025-05-20,225
+Tea,2025-05-21,219
+Tea,2025-05-22,210
+Tea,2025-05-23,210
+Tea,2025-05-24,218
+Tea,2025-05-25,257
+Tea,2025-05-26,210
+Tea,2025-05-27,269
+Tea,2025-05-28,226
+Tea,2025-05-29,255
+Tea,2025-05-30,215
+Tea,2025-05-31,252
+Tea,2025-06-01,261
+Tea,2025-06-02,243
+Tea,2025-06-03,236
+Tea,2025-06-04,273
+Tea,2025-06-05,278
+Tea,2025-06-06,238
+Tea,2025-06-07,213
+Tea,2025-06-08,233
+Tea,2025-06-09,234
+Tea,2025-06-10,271
+Tea,2025-06-11,245
+Tea,2025-06-12,266
+Tea,2025-06-13,267
+Tea,2025-06-14,271
+Tea,2025-06-15,256
+Tea,2025-06-16,252
+Tea,2025-06-17,272
+Tea,2025-06-18,253
+Tea,2025-06-19,251
+Tea,2025-06-20,258
+Tea,2025-06-21,233
+Tea,2025-06-22,269
+Tea,2025-06-23,230
+Tea,2025-06-24,263
+Tea,2025-06-25,221
+Tea,2025-06-26,216
+Tea,2025-06-27,229
+Tea,2025-06-28,194
+Tea,2025-06-29,221
+Tea,2025-06-30,229
+Tea,2025-07-01,257
+Tea,2025-07-02,232
+Tea,2025-07-03,243
+Tea,2025-07-04,201
+Tea,2025-07-05,204
+Tea,2025-07-06,218
+Tea,2025-07-07,233
+Tea,2025-07-08,202
+Tea,2025-07-09,189
+Tea,2025-07-10,228
+Tea,2025-07-11,185
+Tea,2025-07-12,232
+Tea,2025-07-13,209
+Tea,2025-07-14,207
+Tea,2025-07-15,211
+Tea,2025-07-16,227
+Tea,2025-07-17,209
+Tea,2025-07-18,198
+Tea,2025-07-19,206
+Tea,2025-07-20,207
+Tea,2025-07-21,224
+Tea,2025-07-22,194
+Tea,2025-07-23,211
+Tea,2025-07-24,216
+Tea,2025-07-25,249
+Tea,2025-07-26,233
+Tea,2025-07-27,284
+Tea,2025-07-28,260
+Tea,2025-07-29,231
+Tea,2025-07-30,257
+Tea,2025-07-31,250
+Tea,2025-08-01,256
+Tea,2025-08-02,272
+Tea,2025-08-03,286
+Tea,2025-08-04,259
+Tea,2025-08-05,236
+Tea,2025-08-06,252
+Tea,2025-08-07,281
+Tea,2025-08-08,265
+Tea,2025-08-09,240
+Tea,2025-08-10,214
+Tea,2025-08-11,243
+Tea,2025-08-12,226
+Tea,2025-08-13,232
+Tea,2025-08-14,238
+Tea,2025-08-15,224
+Tea,2025-08-16,262
+Tea,2025-08-17,251
+Tea,2025-08-18,253
+Tea,2025-08-19,282
+Tea,2025-08-20,271
+Tea,2025-08-21,261
+Tea,2025-08-22,252
+Tea,2025-08-23,258
+Tea,2025-08-24,282
+Tea,2025-08-25,251
+Tea,2025-08-26,236
+Tea,2025-08-27,261
+Tea,2025-08-28,219
+Tea,2025-08-29,273
+Tea,2025-08-30,231
+Tea,2025-08-31,234
+Tea,2025-09-01,237
+Tea,2025-09-02,209
+Tea,2025-09-03,226
+Tea,2025-09-04,227
+Tea,2025-09-05,153
+Tea,2025-09-06,265
+Tea,2025-09-07,214
+Tea,2025-09-08,228
+Tea,2025-09-09,215
+Tea,2025-09-10,250
+Tea,2025-09-11,243
+Tea,2025-09-12,198
+Tea,2025-09-13,233
+Tea,2025-09-14,214
+Tea,2025-09-15,210
+Tea,2025-09-16,185
+Tea,2025-09-17,183
+Tea,2025-09-18,225
+Tea,2025-09-19,177
+Tea,2025-09-20,202
+Tea,2025-09-21,232
+Tea,2025-09-22,208
+Tea,2025-09-23,204
+Tea,2025-09-24,228
+Tea,2025-09-25,198
+Tea,2025-09-26,187
+Tea,2025-09-27,216
+Tea,2025-09-28,219
+Tea,2025-09-29,215
+Tea,2025-09-30,216
+Tea,2025-10-01,189
+Tea,2025-10-02,210
+Tea,2025-10-03,206
+Tea,2025-10-04,235
+Tea,2025-10-05,233
+Tea,2025-10-06,256
+Tea,2025-10-07,294
+Tea,2025-10-08,208
+Tea,2025-10-09,262
+Tea,2025-10-10,235
+Tea,2025-10-11,245
+Tea,2025-10-12,238
+Tea,2025-10-13,267
+Tea,2025-10-14,244
+Tea,2025-10-15,241
+Tea,2025-10-16,228
+Tea,2025-10-17,287
+Tea,2025-10-18,262
+Tea,2025-10-19,256
+Tea,2025-10-20,251
+Tea,2025-10-21,223
+Tea,2025-10-22,245
+Tea,2025-10-23,232
+Tea,2025-10-24,243
+Tea,2025-10-25,203
+Tea,2025-10-26,54
